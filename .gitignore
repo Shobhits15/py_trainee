@@ -4,3 +4,4 @@ __pycache__/
 .pytest_cache/
 student.txt
 students.csv
+student.json
