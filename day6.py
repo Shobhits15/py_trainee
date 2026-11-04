@@ -80,6 +80,20 @@ logging.critical("Application failure")
 #git commit -m "Add logging"
 
 
+#git status
+#make  the new file
+#git branch <name of branch>
+#switch to the new branch    git checkout <name of branch>
+#git status
+#git add .
+#git commit -m "Add new feature"
+#push it on the new branch   git push -u origin <name of branch>   Here -u is used for first time so it remember the branch name and next time we can use git push only.
+#now go to the main branch
+#then  merge the new branch to the main     git merge <name of new branch>
+# to delete the branch after merging   git branch -d <name of new branch>
+
+
+
 #.gitignore: A .gitignore file is a text file that specifies which files and directories should be ignored by Git when tracking changes in a repository.
 
 
